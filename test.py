@@ -1,4 +1,3 @@
-from ctypes.wintypes import PINT
 import jageocoder
 import json
 jageocoder.init()
